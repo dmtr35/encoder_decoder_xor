@@ -1,0 +1,7 @@
+decoding for this xor-encoder:
+encoder (result.txt, "text for encoding")               - encoding
+encoder (-d, encoder-string.txt)                        - decoding
+
+
+decoding for any xor-encoders:
+decoder ("encoder-string.txt", "result.txt")            - decoding
